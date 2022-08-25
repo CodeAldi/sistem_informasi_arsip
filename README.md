@@ -12,6 +12,7 @@ Sebelumnya ini adalah project sistem informasi yang saya buat antara bulan akhir
 -   untuk login sebagai super admin gunakan :
 -   username : super admin
 -   password : 123456
+-   ketika sudah login sebagai super admin, segera create user untuk dosen pj,kabag,dan mahasiswa.
 
 ## Super admin
 
